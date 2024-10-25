@@ -49,3 +49,5 @@ insert into products (productname, productprice) values ('mouse',100)
 `````
 insert into products (productname, productprice) values ('mouse',100)````
 `````
+
+*****
