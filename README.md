@@ -41,7 +41,7 @@ create table products (productid serial primary key, productname varchar(100) no
 ### 7) `insert a products into products table`
 
 `````
-insert into products (productname, productprice) values ('mouse',100)````
+insert into products (productname, productprice) values ('mouse',100)
 `````
 
 ### 8) `insert a products into products table`
